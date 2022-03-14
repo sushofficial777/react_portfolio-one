@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_portfolio-one/static/css/main.df9859a0.css",
+    "main.js": "/react_portfolio-one/static/js/main.6b554e2e.js",
+    "static/js/787.61c5a43d.chunk.js": "/react_portfolio-one/static/js/787.61c5a43d.chunk.js",
+    "static/media/Saly-12.png": "/react_portfolio-one/static/media/Saly-12.1091e13cdd6a4a7ca464.png",
+    "index.html": "/react_portfolio-one/index.html",
+    "main.df9859a0.css.map": "/react_portfolio-one/static/css/main.df9859a0.css.map",
+    "main.6b554e2e.js.map": "/react_portfolio-one/static/js/main.6b554e2e.js.map",
+    "787.61c5a43d.chunk.js.map": "/react_portfolio-one/static/js/787.61c5a43d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df9859a0.css",
+    "static/js/main.6b554e2e.js"
+  ]
+}
